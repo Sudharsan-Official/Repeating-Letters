@@ -33,6 +33,8 @@ Flag=0;
 break;
 }
 }
+   //Used to find the same letters in a paragraph to understand the words usage
+   
 }
 if(Flag==1)                       //if condition
 {

@@ -33,7 +33,7 @@ Flag=0;
 break;
 }
 }
-   //Used to find the same letters in a paragraph to understand the words usage
+ 
    
 }
 if(Flag==1)                       //if condition
@@ -53,3 +53,4 @@ printf("\nOccurrence = %d",count); //prints the number of times the letter occur
    return 0;
 }
 
+  //Used to find the same letters in a paragraph to understand the words usage
